@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 📫 211220026@nitdelhi.ac.in
 - 📃 here's my resume: https://drive.google.com/file/d/1ipuilcg1PdckhQT0Wn8im8c-UmdgHOkP/view?usp=drive_link
 - 🌟 Leetcode Profile: https://leetcode.com/u/Bhanu_pranav/
-- 💼 Linkedin Profile: https://www.linkedin.com/in/bhanu-pranav/
 
 
 
