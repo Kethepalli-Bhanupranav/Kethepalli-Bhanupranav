@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Kethepalli-Bhanupranav/Kethepalli-Bhanupranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**Kethepalli-Bhanupranav/Kethepalli-Bhanupranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🎓 I’m a NIT Delhi 2025 graduate.
+🤩 I’m a development and problem-solving enthusiast.
+🧑🏻‍💻 I’m a MERN stack developer.
+🎯 I’m looking for a remote job.
+📫 211220026@nitdelhi.ac.in
+📃 here's my resume: https://drive.google.com/file/d/1ipuilcg1PdckhQT0Wn8im8c-UmdgHOkP/view?usp=drive_link
+🌟 Leetcode Profile: https://leetcode.com/u/Bhanu_pranav/
+💼 Linkedin Profile: https://www.linkedin.com/in/bhanu-pranav/
 
 
 
