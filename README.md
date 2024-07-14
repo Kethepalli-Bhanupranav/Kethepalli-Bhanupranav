@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻 I’m a MERN stack developer.
 - 🎯 I’m looking for a remote job.
 - 📫 211220026@nitdelhi.ac.in
-- 📃 here's my resume: https://drive.google.com/file/d/1ipuilcg1PdckhQT0Wn8im8c-UmdgHOkP/view?usp=drive_link
+- 📃 here's my resume: https://drive.google.com/file/d/1k7XvmUMzgo6co4Ip7NGkkSI20XheaPrd/view?usp=sharing
 - 🌟 Leetcode Profile: https://leetcode.com/u/Bhanu_pranav/
 
 
