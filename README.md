@@ -16,6 +16,7 @@
 - 📫 211220026@nitdelhi.ac.in
 - 📃 here's my resume: https://drive.google.com/file/d/1k7XvmUMzgo6co4Ip7NGkkSI20XheaPrd/view?usp=sharing
 - 🌟 Leetcode Profile: https://leetcode.com/u/Bhanu_pranav/
+- 🌟GeekforGeeks Profile :https://auth.geeksforgeeks.org/user/bhanu_pranav 
 
 
 
